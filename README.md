@@ -10,9 +10,9 @@ Tutorials, guidelines, course profiles, class slides, books - all arranged in on
   * [Information Booklet](https://kuet.ac.bd/department/CSE/images/facility/info_booklet_3rd_ed_KUET_CSE.pdf)<br><br>
   * [1st Year 1st Term](#1st-Year-1st-Term)
     * [CSE 1101 (Structured Programming)](#CSE-1101)
-    * [CSE 1107 (Discrete Mathematics)](#why-on-github)
-  * [1st Year 2nd Term](#why-on-github)
-    * [CSE 1203](#why-on-github)
+    * [CSE 1107 (Discrete Mathematics)](https://img.freepik.com/free-vector/construction-with-black-yellow-stripes_1017-30755.jpg?size=626&ext=jpg&ga=GA1.1.1700460183.1707955200&semt=ais)
+  * [1st Year 2nd Term](https://img.freepik.com/free-vector/construction-with-black-yellow-stripes_1017-30755.jpg?size=626&ext=jpg&ga=GA1.1.1700460183.1707955200&semt=ais)
+    * [CSE 1203](https://img.freepik.com/free-vector/construction-with-black-yellow-stripes_1017-30755.jpg?size=626&ext=jpg&ga=GA1.1.1700460183.1707955200&semt=ais)
 
 
 # 1st Year 1st Term
