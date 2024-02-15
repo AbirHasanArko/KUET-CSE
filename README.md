@@ -1,5 +1,5 @@
 # A beginner's guide to KUET CSE
-
+Tutorials, guidelines, course profiles, class slides, books - all arranged in one place<br>
 <details>
   <summary>1st Year 1st Term</summary>
 
