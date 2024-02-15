@@ -1,2 +1,1 @@
-# KUET-CSE
-A beginners guide to KUET CSE
+# A beginner's guide to KUET CSE
